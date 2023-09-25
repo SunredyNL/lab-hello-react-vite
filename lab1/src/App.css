@@ -1,0 +1,49 @@
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.header {
+  color: white;
+  display: flexbox;
+  background-color: #1f2535;
+  width: 100%;
+}
+
+.ilogo {
+  margin-left: 3vw;
+  margin-top: 3vh;
+}
+
+.menulogo {
+  margin-left: 85vw;
+  margin-top: 0.5vh;
+}
+
+.hello {
+  font-size: 4rem;
+  margin-left: 3vw;
+  margin-bottom: 0;
+}
+
+.desc {
+  margin-left: 3vw;
+  font-weight: lighter;
+}
+
+.awesome {
+  background-color: white;
+  color: #1f2535;
+  margin-left: 3vw;
+  padding: 1rem;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-bottom: 7vh;
+}
+
+.list {
+  padding-top: 10vh;
+  display: flex;
+  justify-content: center;
+  gap: 10vh;
+}
